@@ -1,5 +1,6 @@
 # June 2026 update: Now a standalone Windows and MacOS application, check it out here:
-[birchlabs.thomasvanderburg.com](birchlabs.thomasvanderburg.com)
+
+[birchlabs.thomasvanderburg.com](https://birchlabs.thomasvanderburg.com)
 
 If you are still interested in the Autohotkey version, read along. But I highly recommend the new version!
 
