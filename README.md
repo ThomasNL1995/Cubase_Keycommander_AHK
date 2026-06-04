@@ -1,7 +1,16 @@
+# June 2026 update: Now a standalone Windows and MacOS application, check it out here:
+[birchlabs.thomasvanderburg.com](birchlabs.thomasvanderburg.com)
+
+If you are still interested in the Autohotkey version, read along. But I highly recommend the new version!
+
+![KeyCommander Website Preview](https://birchlabs.thomasvanderburg.com/wp-content/uploads/sites/2/2026/05/birchlabs_website_OG_image_v2.png)
+
 # Cubase Keycommander #
 
 _Made by Thomas van der Burg_  
 **Version 1.0** _28-01-2025_
+
+
 
 The Cubase Keycommander uses **AutoHotKey**, **Virtual MIDI**, and **Cubase MIDI Remote** to easily search for any command or macro available in Cubase and execute it without assigning any key manually.
 
